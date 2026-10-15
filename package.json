@@ -40,7 +40,7 @@
     "vite-tsconfig-paths": "^6.0.4"
   },
   "devDependencies": {
-    "@shopify/api-codegen-preset": "^2.0.0",
+    "@shopify/api-codegen-preset": "^3.0.0",
     "@shopify/cli": "^3.88.0",
     "@shopify/cli": "^3.86.0",
     "@shopify/cli": "^3.88.0",
